@@ -19,6 +19,10 @@ public class Student {
         
     }
 
+public void Set(){
+        return;
+}
+
     public void SetName(String S) {
         name = S;
     }

@@ -392,6 +392,9 @@ public class Main {
             s[ST.length - 1 - i] = ST[i];  
         }
         return s;
+
     }
+
+
 
 }
